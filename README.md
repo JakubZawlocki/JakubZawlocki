@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JakubZawlocki
+- 👀 I’m interested in Python, SQL
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me? jakzawlocki@gmail.com
